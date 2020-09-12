@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>FoodyApp</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'D:\\Download\\Foody Find Reserve Delivery_v5.3.1_apkpure.com.apk'</initValue>
+      <name>OpenApp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Rasanya itu'</initValue>
+      <name>ReviewTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Mantab sip'</initValue>
+      <name>ReviewExplain</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'khaidar.febrianto@yahoo.com'</initValue>
+      <name>Email</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
